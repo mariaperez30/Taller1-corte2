@@ -1,0 +1,7 @@
+{
+  "name": "Talller1-corte2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
